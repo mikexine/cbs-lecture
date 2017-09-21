@@ -1,0 +1,215 @@
+{
+  "created_at": "Thu Sep 21 14:46:19 +0000 2017",
+  "id": 910877859018887171,
+  "id_str": "910877859018887171",
+  "text": "Janet Jackson shows Bodak Yellow Some Love CLICK https://t.co/bmedDaWqUE for more \\n\\n#Nigeria\\n\\nWhen a legend issa fa… https://t.co/i0qPX018KU",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+  "truncated": true,
+  "in_reply_to_status_id": "None",
+  "in_reply_to_status_id_str": "None",
+  "in_reply_to_user_id": "None",
+  "in_reply_to_user_id_str": "None",
+  "in_reply_to_screen_name": "None",
+  "user": {
+    "id": 2872034170,
+    "id_str": "2872034170",
+    "name": "JAIYEORIE",
+    "screen_name": "jaiyeorienews",
+    "location": "Nigeria",
+    "url": "http://jaiyeorie.blogspot.com",
+    "description": "I HAVE GIST",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2259,
+    "friends_count": 2339,
+    "listed_count": 84,
+    "favourites_count": 15,
+    "statuses_count": 60777,
+    "created_at": "Tue Nov 11 08:40:12 +0000 2014",
+    "utc_offset": 7200,
+    "time_zone": "Ljubljana",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "89C9FA",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/898224175642533889/CNzgHuAT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/898224175642533889/CNzgHuAT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2872034170/1477077388",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": "None",
+    "follow_request_sent": "None",
+    "notifications": "None"
+  },
+  "geo": "None",
+  "coordinates": "None",
+  "place": "None",
+  "contributors": "None",
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "Janet Jackson shows Bodak Yellow Some Love CLICK https://t.co/bmedDaWqUE for more \\n\\n#Nigeria\\n\\nWhen a legend issa fan... Cardi B captions… https://t.co/JhfejeG9m9",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Nigeria",
+          "indices": [
+            84,
+            92
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bmedDaWqUE",
+          "expanded_url": "http://jaiyeorie.blogspot.com",
+          "display_url": "jaiyeorie.blogspot.com",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 910877858289082368,
+          "id_str": "910877858289082368",
+          "indices": [
+            138,
+            161
+          ],
+          "media_url": "http://pbs.twimg.com/media/DKQWlgkW4AADGpi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DKQWlgkW4AADGpi.jpg",
+          "url": "https://t.co/JhfejeG9m9",
+          "display_url": "pic.twitter.com/JhfejeG9m9",
+          "expanded_url": "https://twitter.com/jaiyeorienews/status/910877859018887171/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 420,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 494,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 494,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 910877858289082368,
+          "id_str": "910877858289082368",
+          "indices": [
+            138,
+            161
+          ],
+          "media_url": "http://pbs.twimg.com/media/DKQWlgkW4AADGpi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DKQWlgkW4AADGpi.jpg",
+          "url": "https://t.co/JhfejeG9m9",
+          "display_url": "pic.twitter.com/JhfejeG9m9",
+          "expanded_url": "https://twitter.com/jaiyeorienews/status/910877859018887171/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 420,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 494,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 494,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Nigeria",
+        "indices": [
+          84,
+          92
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/bmedDaWqUE",
+        "expanded_url": "http://jaiyeorie.blogspot.com",
+        "display_url": "jaiyeorie.blogspot.com",
+        "indices": [
+          49,
+          72
+        ]
+      },
+      {
+        "url": "https://t.co/i0qPX018KU",
+        "expanded_url": "https://twitter.com/i/web/status/910877859018887171",
+        "display_url": "twitter.com/i/web/status/9…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1506005179539"
+}
